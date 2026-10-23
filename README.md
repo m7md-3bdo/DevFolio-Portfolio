@@ -8,7 +8,7 @@ A dark, classic personal portfolio built with **HTML, CSS, Bootstrap 5 and JavaS
 
 https://m7md-3bdo.github.io/REPO-NAME/
 
-> Replace `REPO-NAME` with the name of this repository.
+> Replace `DevFolio-Portfolio` with the name of this repository.
 
 ## About
 
